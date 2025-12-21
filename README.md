@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Subham 🤗🤗🤗
-- 👀 I'm a software developer having expertise in Full Stack Java Enterprise Appl development, Jenkins API testing
-- ✨ I'm 5 ⭐ Java | 3 ⭐ C++ at HackerRank, LeetKnight 
+- 👀 I'm a software developer having Expertise in Full Stack Java SpringBoot Enterprise Appl development.
+- ✨ I'm 5 ⭐ Java | 3 ⭐ C++ at HackerRank, LeetKnight
 - 👀 I’m interested in Developing Scalable applications, Full Stack Java, Machine Learning, learning modern technologies.
 - 💞️ I’m looking to collaborate on anything that excites me 😃
 - 📫 How to reach me: subham50520sm@gmail.com
-- 🙇🏻‍♂️ Fav Lang :- Java, JavaScript, SpringBoot, MicroServices, Kafka, Redis, MongoDB, RabbitMQ
-- 🎓 FACT: No one can have the speciality to be 100% succeeded. But "Arise! Awake! And stop not until the goal is reached"- By 🙏🏻 Swami Vivekananda.
+- 🙇🏻‍♂️ Fav Lang :- Java, JavaScript, SpringBoot, MicroServices, Kafka, Redis, MongoDB, RabbitMQ, DynamoDB
